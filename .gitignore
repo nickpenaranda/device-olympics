@@ -1,0 +1,5 @@
+./DeviceOlympics-android/bin
+./DeviceOlympics-desktop/bin
+./DeviceOlympics/bin
+*.class
+*.apk

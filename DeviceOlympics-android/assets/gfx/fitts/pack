@@ -1,0 +1,169 @@
+
+fitts1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+targetInactiveDim
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+bgDetail
+  rotate: false
+  xy: 2, 516
+  size: 800, 166
+  orig: 800, 166
+  offset: 0, 0
+  index: -1
+fontRoundText
+  rotate: false
+  xy: 516, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fontRoundNumber
+  rotate: false
+  xy: 2, 684
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cloud4
+  rotate: false
+  xy: 774, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 516, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 646, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 776, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+signbase
+  rotate: false
+  xy: 904, 2
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+mult9
+  rotate: false
+  xy: 774, 132
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult8
+  rotate: false
+  xy: 774, 191
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult7
+  rotate: false
+  xy: 850, 132
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult6
+  rotate: false
+  xy: 850, 191
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult5
+  rotate: false
+  xy: 926, 132
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult4
+  rotate: false
+  xy: 926, 191
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult3
+  rotate: false
+  xy: 516, 390
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult2
+  rotate: false
+  xy: 516, 449
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult10
+  rotate: false
+  xy: 646, 390
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+mult1
+  rotate: false
+  xy: 646, 449
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+puff
+  rotate: false
+  xy: 906, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+fitts2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+targetInactive
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+fitts3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+targetActive
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

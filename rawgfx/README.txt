@@ -1,0 +1,1 @@
+Graphics assets should be placed according to the screen that requires them.
